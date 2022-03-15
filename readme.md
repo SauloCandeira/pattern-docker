@@ -15,16 +15,12 @@ Estudos utilizando o Docker
 
 ```mermaid
 flowchart LR
-A[Docker] --> B[Conteiners]
+B[Docker]
 
-B --> C{APP}
-C --> J[Tasks]
-C --> K[Timeline]
-C --> L[Team]
-C --> M[Daily-Notes]
-C --> N[Analytics]
-C --> O[Laboratory]
-
+B --> C{Conteiners}
+C --> J[Front-End]
+C --> K[Database]
+C --> L[API]
 ```
 
 ### FONTE:
