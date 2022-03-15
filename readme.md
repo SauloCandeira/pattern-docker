@@ -46,7 +46,7 @@ Docker em 22 minutos: (url: https://www.youtube.com/watch?v=Kzcz-EVKBEQ)
   
   <li>
     <p><b><code>1.2 - [] </code></b></p>
-    <p><i> Fase-1: https://www.youtube.com/watch?v=wCOInE7-E0I  </i></p>
+    <p><i> Fase-1:  </i></p>
   </li> 
   
   <li>
