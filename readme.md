@@ -24,7 +24,7 @@ C --> L[API]
 ```
 
 ### FONTE:
-
+Docker em 22 minuts: (url: https://www.youtube.com/watch?v=Kzcz-EVKBEQ)
 
 ### 1.0 - FASES DO PROJETO
 
