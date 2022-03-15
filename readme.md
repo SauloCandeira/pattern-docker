@@ -15,8 +15,8 @@ Estudos utilizando o Docker
 
 ```
 1º - Finalizar: docker stop {name_container}
-2º - Instalar WSL2 (url: https://www.windowscentral.com/how-install-wsl2-windows-10)
-3º - Habilitar Hyper V (url: https://docs.microsoft.com/pt-br/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
+2º - 
+3º -
 ```
 
 
