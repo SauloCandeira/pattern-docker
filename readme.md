@@ -15,8 +15,7 @@ Estudos utilizando o Docker
 
 ```mermaid
 flowchart LR
-X[Repository] -->|Jekyll-Theme| A[Jekyll]
-A[Github] -->|Config.yml| B[GH-Pages]
+A[Docker] --> B[Conteiners]
 
 B --> C{APP}
 C --> J[Tasks]
