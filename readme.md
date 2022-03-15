@@ -1,5 +1,5 @@
 # Sobre o Projeto:
-Desenvolvimento de um projeto que analisa editais e questões de concursos
+Estudos utilizando o Docker
 
 
 ### COMANDOS
