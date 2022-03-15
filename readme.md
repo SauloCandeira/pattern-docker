@@ -33,7 +33,7 @@ C --> L[API]
 ```
 
 ### FONTE:
-Docker em 22 minuts: (url: https://www.youtube.com/watch?v=Kzcz-EVKBEQ)
+Docker em 22 minutos: (url: https://www.youtube.com/watch?v=Kzcz-EVKBEQ)
 
 ### 1.0 - CICLO DE VIDA
 
