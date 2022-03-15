@@ -5,8 +5,8 @@ Desenvolvimento de um projeto que analisa editais e questões de concursos
 ### COMANDOS
 
 ```
-1º - Criar Repository
-2º - Escolher Tema
+1º - Instalar Docker (url: https://www.docker.com/get-started)
+2º - Instalar WSL2 (URL: https://www.windowscentral.com/how-install-wsl2-windows-10)
 3º - Configurar Tema
 4º - Publicar pagina 
 ```
