@@ -14,10 +14,18 @@ Estudos utilizando o Docker
 ```
 
 
-### COMANDOS DOCKER
+### COMANDOS DOCKER FILE
 
 ```
 1º - Finalizar: docker stop {name_container}
+2º - 
+3º -
+```
+
+### COMANDOS DOCKER COMPOSE
+
+```
+1º - 
 2º - 
 3º -
 ```
