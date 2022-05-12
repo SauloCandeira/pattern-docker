@@ -1,6 +1,9 @@
 # Sobre o Projeto:
 Estudos utilizando o Docker
 
+- Dockerfile
+- Docker Compose
+
 
 ### INSTALAÇÃO
 
