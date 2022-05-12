@@ -25,9 +25,10 @@ Estudos utilizando o Docker
 ### COMANDOS DOCKER COMPOSE
 
 ```
-1º - 
-2º - 
+1º - Iniciar docker: docker-compose up
+2º - Url: http://app.localhost/
 3º -
+```
 ```
 
 
