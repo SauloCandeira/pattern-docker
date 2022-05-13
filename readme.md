@@ -26,8 +26,8 @@ Estudos utilizando o Docker
 
 ```
 1º - Iniciar docker: docker-compose up
-2º - Url: http://app.localhost/
-3º -
+2º - Finalizar docker:  docker-compose down
+3º - Url: http://app.localhost/
 ```
 
 
